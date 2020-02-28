@@ -5,7 +5,7 @@ How to contribute to this repository (strictly follow this rules )
 1.Fork this repository (See youtube that how to fork any other repository).
 
 2.Clone the forked repository. 
-sudo git clone https://github.com/yourgithubusername/Juetcecoursemanagementsystem
+sudo git clone https://github.com/yourgithubusername/hacknpitch_quadcode_bloodbank
 
 3. Navigate to the project directory. 
 cd Juetcecoursemanagementsystem
